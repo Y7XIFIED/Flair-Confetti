@@ -6,7 +6,7 @@
   </a>
 </p>
 
-A premium, high-performance interactive physics and procedural sound-synthesis simulator built for the modern web.
+A fun, highly interactive physics experiment for the web. Pull back the slingshot, listen to the tension build, and launch a satisfying blast of confetti!
 
 ## 📖 About
 

@@ -1,7 +1,7 @@
 {
   "name": "flair-confetti",
   "version": "1.0.0",
-  "description": "A sophisticated, high-performance physics engine and procedural sound-synthesis simulator designed for interactive web experiences.",
+  "description": "A fun, highly interactive physics experiment for the web. Pull back the slingshot, listen to the tension build, and launch a satisfying blast of confetti!",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
