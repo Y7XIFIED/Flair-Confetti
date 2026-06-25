@@ -99,5 +99,4 @@ Experience the project live on Vercel:
 
 <div align="center">
   <p>If you find this simulation inspiring, please give it a ⭐ on GitHub!</p>
-  <sub><b>Y7XIFIED</b></sub>
 </div>
