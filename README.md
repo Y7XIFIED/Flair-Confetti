@@ -6,6 +6,7 @@
   </a>
 </p>
 
+A premium, high-performance interactive physics and procedural sound-synthesis simulator built for the modern web.
 
 ## 📖 About
 
