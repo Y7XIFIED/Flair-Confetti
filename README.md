@@ -30,7 +30,7 @@
 
 ## 🚀 Live Application
 
-The final interactive web application is deployed and available to use:  
+Experience the fully interactive application live here:  
 **[flair-confetti.vercel.app](https://flair-confetti.vercel.app/)**
 
 
