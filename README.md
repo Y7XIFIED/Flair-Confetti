@@ -1,6 +1,7 @@
-# FLAIR CONFETTI
-
-A sophisticated, high-performance physics engine and procedural sound-synthesis simulator designed for interactive web experiences.
+<div align="center">
+  <h1>FLAIR CONFETTI</h1>
+  <p>A sophisticated, high-performance physics engine and procedural sound-synthesis simulator designed for interactive web experiences.</p>
+</div>
 
 ---
 
@@ -77,7 +78,7 @@ A sophisticated, high-performance physics engine and procedural sound-synthesis 
 
 ## 💻 Tech Stack
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,vite" alt="Tech Stack" />
   </a>
@@ -90,6 +91,7 @@ A sophisticated, high-performance physics engine and procedural sound-synthesis 
 
 ---
 
-If you find this simulation inspiring, please give it a ⭐ on GitHub!
-
-<sub><b>Y7XIFIED</b></sub>
+<div align="center">
+  <p>If you find this simulation inspiring, please give it a ⭐ on GitHub!</p>
+  <sub><b>Y7XIFIED</b></sub>
+</div>
