@@ -1,7 +1,13 @@
-<div align="center">
-  <h1>FLAIR CONFETTI</h1>
-  <p>A sophisticated, high-performance physics engine and procedural sound-synthesis simulator designed for interactive web experiences.</p>
-</div>
+<h1 align="center">FLAIR CONFETTI</h1>
+
+A sophisticated, high-performance physics engine and procedural sound-synthesis simulator designed for interactive web experiences.
+
+---
+
+## 🚀 Live Demo
+
+Experience the project live on Vercel:  
+**[flair-confetti.vercel.app](https://flair-confetti.vercel.app/)**
 
 ---
 
