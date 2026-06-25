@@ -3,8 +3,6 @@
   FLAIR CONFETTI
 </h1>
 
-A sophisticated, high-performance physics engine and procedural sound-synthesis simulator designed for interactive web experiences.
-
 ---
 
 ## 📖 About
